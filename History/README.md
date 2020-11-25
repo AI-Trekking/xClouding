@@ -1,2 +1,6 @@
-# xClouding
-Learning Cloud Computing hand by hand.
+# The History of IT from beginning.
+-------------------------------------
+# Computer
+# Operating System
+# Database
+# Internet
